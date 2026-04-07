@@ -5,17 +5,18 @@
 
 ## 🎯 Objetivo do Projeto  
 
-Empresas de tecnologia e suporte enfrentam dificuldades na organização e encaminhamento de solicitações de clientes, gerando retrabalho, atrasos e sobrecarga em algumas equipes. A falta de histórico estruturado e indicadores claros dificulta a gestão e a melhoria contínua do atendimento.
-
 O desafio consiste em desenvolver uma **aplicação mobile** que centralize o atendimento ao cliente via **sistema de chat estruturado**. A jornada inicia com uma **triagem automatizada**, que pode ser feita com uma URA digital baseada em regras e perguntas frequentes, e encaminha para atendentes humanos organizados por grupos e níveis de suporte. O sistema deve registrar todo o histórico de interações e permitir o acompanhamento completo do fluxo de atendimento, incluindo abertura, escalonamento e encerramento de chamados.
 O objetivo é **otimizar o processo de atendimento**, promovendo eficiência operacional, melhor experiência para o cliente e maior controle gerencial, com regras de negócio refinadas colaborativamente durante o desenvolvimento.
 
 
-<!-- ## 🔎 MVP (Minimum Viable Product) -->
-
-
+---
 ## 📽️ Demonstração 
 ### • Sprint 1
+https://github.com/user-attachments/assets/119e8fb3-6dae-4ea1-9ac8-5a4d65728d78
+
+
+https://github.com/user-attachments/assets/99c6a827-923b-4f23-a091-4e22bf16678b
+
 
 ---
 
@@ -60,7 +61,7 @@ O objetivo é **otimizar o processo de atendimento**, promovendo eficiência ope
 | Sprint            | Período     | Status        |
 | ----------------- | ---------- | -----------|
 | Kick Off          | 02/03/2026 |  Concluído         | 
-| 01                | 16/03 - 05/04 | Em andamento | 
+| 01                | 16/03 - 05/04 | Concluído | 
 | 02                | 13/04 - 03/05 | A seguir | 
 | 03                | 11/05 - 31/05 | A seguir | 
 | Feira de Soluções | 18/06/206 |  A seguir  | 
@@ -71,8 +72,7 @@ O objetivo é **otimizar o processo de atendimento**, promovendo eficiência ope
 
 | Cliente          | Período/Curso                                  | Professor M2      | Professor P2     | Contato Cliente                    |
 | ---------------- | ---------------------------------------------- | ----------------- | ---------------- | ---------------------------------- |
-| Rafael Monteiro - Empresa Pro4tech| 5º Análise e Desenvolvimento de Sistemas |  Ronaldo Emerick  | Gerson Penha | <rafael.monteiro@pro4tech.com.
-br> |
+| Rafael Monteiro - Empresa Pro4tech| 5º Análise e Desenvolvimento de Sistemas |  Ronaldo Emerick  | Gerson Penha | <rafael.monteiro@pro4tech.com.br> |
 
 
 ## 💣 A Equipe Code Don´t Blow

@@ -14,10 +14,12 @@
 <a href ="#sprint"> Cronograma de Sprints</a> |
 <a href ="#tecnologias"> Tecnologias </a> |
 
-<!---a href ="#estrutura"> Estrutura do Projeto </a> |---->
-
+<!---a href ="#estrutura"> Estrutura do Projeto </a> |
 <a href ="#dor"> DoR</a> |
 <a href ="#dod"> DoD</a> |
+---->
+
+
 <a href ="#roadmap"> Roadmap de Entregas </a> |
 <a href ="#manual"> Guia de Documentações</a> |
 <a href ="#team"> Equipe </a>
@@ -27,7 +29,7 @@
 
 <br>
 
-> Status do Projeto: Em andamento! ⏳
+> Status do Projeto: Concluído! ☑️
 
 <br>
 
@@ -104,9 +106,9 @@ O Orbita integra e registra automaticamente todo o histórico de interações, p
 | ----------------- | ------------- | --------- |
 | Kick Off          | 02/03/2026    | Concluído |
 | 01                | 16/03 - 05/04 | Concluído |
-| 02                | 13/04 - 03/05 | Em andamento  |
-| 03                | 11/05 - 31/05 | A seguir  |
-| Feira de Soluções | 18/06/206     | A seguir  |
+| 02                | 13/04 - 03/05 | Concluído |
+| 03                | 11/05 - 31/05 | Concluído |
+| Feira de Soluções | 25/06/206     | Concluído |
 
 
 ## :iphone: Principais Protótipos da Aplicação <a id="prototipo"></a>
@@ -144,7 +146,7 @@ O Orbita integra e registra automaticamente todo o histórico de interações, p
   </tr>
 </table>
 
-
+<!---
 ### Sprint 2:
 
 > :lock: Em breve! 
@@ -152,7 +154,7 @@ O Orbita integra e registra automaticamente todo o histórico de interações, p
 ### Sprint 3:
 
 > :lock: Em breve! 
-
+--->
 
 ## :dizzy: Tecnologias
 
@@ -162,6 +164,8 @@ O Orbita integra e registra automaticamente todo o histórico de interações, p
 ![Docker](https://img.shields.io/badge/docker-0b192c.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-0b192c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-0b192c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 ![Expo](https://img.shields.io/badge/Expo-0b192c?style=for-the-badge&logo=expo&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-0b192c.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-0b192c.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -185,9 +189,7 @@ O Orbita integra e registra automaticamente todo o histórico de interações, p
 
 ## 📖 Guia de Documentações <a id="manual"></a>
 
-[Guias do Usuário (Manual de Instalação e Utilização do Orbita)](docs/guia)
-
-[Documentação Técnica](docs/documentacao)
+[Documentação Técnica](/docs)
 
 ## :scissors: Pavio Cutters:
 
